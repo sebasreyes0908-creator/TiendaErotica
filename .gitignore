@@ -1,0 +1,6 @@
+target/
+productos.dat
+productos.dat.tmp
+imagenes/
+.idea/
+*.iml
